@@ -1,6 +1,11 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
+
+Raakin Bhatti
+"where's your bugatti" 
+- andrew tate 
+
 * Edit the `assignment1code.py` file by following the instructions in the comments.
 * Run the code by typing the command: `python assignment1code.py` (Make sure you are in the directory where the file is saved! Use cd to change directories.)
 * Take a screenshot of your successful program run and upload it to your assignment repository.
